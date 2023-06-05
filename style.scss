@@ -25,7 +25,6 @@ $primaryColor: #0d6efd;
   
 ::-webkit-scrollbar-thumb {
     background-color: $primaryColor;
-    border-radius: 6px;
 }
   
   /* For Firefox */
@@ -36,7 +35,6 @@ $primaryColor: #0d6efd;
   
   ::-moz-scrollbar-thumb {
     background-color: $primaryColor;
-    border-radius: 6px;
   }
   
   /* For Internet Explorer and Edge */
@@ -47,7 +45,6 @@ $primaryColor: #0d6efd;
   
   ::-ms-scrollbar-thumb {
     background-color: $primaryColor;
-    border-radius: 6px;
   }
   
   /* For Opera */
@@ -58,7 +55,6 @@ $primaryColor: #0d6efd;
   
   ::-o-scrollbar-thumb {
     background-color: $primaryColor;
-    border-radius: 6px;
   }  
 
 

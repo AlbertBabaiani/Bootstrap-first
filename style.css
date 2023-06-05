@@ -21,7 +21,6 @@ body::before {
 
 ::-webkit-scrollbar-thumb {
   background-color: #0d6efd;
-  border-radius: 6px;
 }
 
 /* For Firefox */
@@ -32,7 +31,6 @@ body::before {
 
 ::-moz-scrollbar-thumb {
   background-color: #0d6efd;
-  border-radius: 6px;
 }
 
 /* For Internet Explorer and Edge */
@@ -43,7 +41,6 @@ body::before {
 
 ::-ms-scrollbar-thumb {
   background-color: #0d6efd;
-  border-radius: 6px;
 }
 
 /* For Opera */
@@ -54,7 +51,6 @@ body::before {
 
 ::-o-scrollbar-thumb {
   background-color: #0d6efd;
-  border-radius: 6px;
 }
 
 @media (min-width: 768px) {
